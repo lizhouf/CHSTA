@@ -7,6 +7,9 @@ Repository for Lizhou Fan, Huizi Yu and Zhanyuan Yin for the analysis of anti-As
 During the critical period between coronavirus's emergence and ensuing outbreak (January 31, 2020 to April 7, 2020), we've conducted six waves of data collection, each lasting approximately one week. We have queried the Twitter API using the keyword "coronavirus+and+china" and collected 3,482,197 unique tweets across six waves. In accordance with Twitter's [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we only publically release the tweet ID and the date on which the tweet is created. 
 
 ## How to Hydrate
+Please refer to the [DocNow Hydrator Github repository](https://github.com/DocNow/hydrator) for instructions on how to obtain the complete information corresponding to each Tweet ID.
+
+## Data Usage Agreement
 
 ## Statistics Summary
 Number of Tweets : **3,482,197**
@@ -22,5 +25,5 @@ Language breakdown of top 10 most prevalent languages :
 | 6           |2020-03-31      |2020-04-07      |610,910                |
 
 ## Contact
-Please contact Lizhou Fan at **lizhou@ucla.edu**
+Please contact Lizhou Fan at **lizhou@ucla.edu** if you have any question. 
 
