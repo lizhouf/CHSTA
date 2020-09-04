@@ -1,9 +1,9 @@
 # CHSTA
 COVID-19 Hate Speech Twitter Archive (CHSTA)
 
-Repository for Lizhou Fan, Huizi Yu and Zhanyuan Yin for the analysis of anti-Asian Hate Speech on Twitter. "Stigmatization in Social Media: Documenting and Analyzing Hate Speech for COVID-19 on Twitter" ASIST 2020. The paper can be found here. 
+Repository for Lizhou Fan, Huizi Yu and Zhanyuan Yin for the analysis of anti-Asian Hate Speech on Twitter. "Stigmatization in Social Media: Documenting and Analyzing Hate Speech for COVID-19 on Twitter" ASIST 2020. The paper can be found here (later add link and citation instruction). 
 
-## Data Collection:
+## Data Collection
 During the critical period between coronavirus's emergence and ensuing outbreak (January 31, 2020 to April 7, 2020), we've conducted six waves of data collection, each lasting approximately one week. We have queried the Twitter API using the keyword "coronavirus+and+china" and collected 3,482,197 unique tweets across six waves. In accordance with Twitter's [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we only publically release the tweet ID and the date on which the tweet is created. 
 
 ## How to Hydrate
