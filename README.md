@@ -27,3 +27,6 @@ Language breakdown of top 10 most prevalent languages :
 ## Contact
 Please contact Lizhou Fan at **lizhou@ucla.edu** if you have any question. 
 
+## Acknowledgement
+We thank [UCLA Digital Research Consortium](https://drc.ucla.edu/) for their support in scraping and storing the data. We thank Dave Shepard and Ed Summers for thier inspiring suggestions and resources of the scraping processes.
+
