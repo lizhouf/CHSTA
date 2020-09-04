@@ -8,7 +8,7 @@ During the critical period between coronavirus's emergence and ensuing outbreak 
 
 ## How to Hydrate
 
-# Statistics Summary
+## Statistics Summary
 Number of Tweets : **3,482,197**
 
 Language breakdown of top 10 most prevalent languages : 
@@ -21,5 +21,6 @@ Language breakdown of top 10 most prevalent languages :
 | 5           |2020-03-22      |2020-03-29      |673,625                |
 | 6           |2020-03-31      |2020-04-07      |610,910                |
 
-
+## Contact
+Please contact Lizhou Fan at **lizhou@ucla.edu**
 
